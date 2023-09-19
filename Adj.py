@@ -13,6 +13,18 @@ for cislo in cisla:
     else:
         print(f"{cislo} {vety[0]}")
 
+#for cislo in cisla:: To je jako říct "projdi všechna čísla v seznamu cisla". cislo je jako krabice, do které se v každém kole cyklu vloží jedno číslo ze seznamu.
+
+#if cislo == 1:: To říká, "když je to číslo 1, udělej toto:".
+
+#print(f"{cislo} {vety[2]}"): Vypiš číslo a třetí větu ze seznamu vety.
+#elif cislo % 10 in [2, 3, 4]:: To znamená "jinak, pokud poslední číslice čísla je 2, 3 nebo 4, udělej toto:".
+
+#print(f"{cislo} {vety[1]}"): Vypiš číslo a druhou větu ze seznamu vety.
+#else:: Když to není ani číslo 1, ani číslo s poslední číslicí 2, 3 nebo 4, provede se toto:
+
+#print(f"{cislo} {vety[0]}"): Vypiš číslo a první větu ze seznamu vety.
+
 
 #Tímto způsobem 
 #můžete kombinovat start, stop a step tak, aby vytvořily požadované sekvence čísel. 
