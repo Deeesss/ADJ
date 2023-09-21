@@ -1,8 +1,8 @@
 cisla = list(range(10, 0, -1)) 
 vety = [
-    "zelených láhví stojí na stole a jedna spadne",
-    "zelené lahve stojí na stole a jedna spadne",
-    "zelená láhev stojí na stole a jedna spadne"
+    "zelených flaší stojí na stole a jedna spadne",
+    "zelené flaše stoja na stole a jedna spadne",
+    "zelená flaša stojí na stole a jedna spadne"
 ]
 
 for cislo in cisla:
